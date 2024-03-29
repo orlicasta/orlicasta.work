@@ -11,7 +11,7 @@ function MainPage() {
   <h1>orlicasta</h1>
   <h1>&nbsp;</h1>
 
-  <div >
+  <div className='stones' >
 
   <h3>Links</h3>
   <p><a href="https://github.com/orlicasta/">github.com/orlicasta</a></p>
