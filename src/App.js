@@ -24,18 +24,18 @@ function MainPage() {
   <p>&nbsp;</p>
 
   <h3>PFW Capstone Slides</h3>
-  <p><a href="doc/proposal.pptx">doc/proposal.pptx</a></p>
-  <p><a href="doc/9midterm.pptx">doc/9midterm.pptx</a></p>
-  <p><a href="doc/9fallfinal.pptx">doc/9fallfinal.pptx</a></p>
-  <p><a href="doc/9-MarchPresentation.pptx">doc/9-MarchPresentation.pptx</a></p>
-  <p><a href="doc/9springfinalv2.pptx">doc/9springfinalv2.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/proposal.pptx">doc/proposal.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/9midterm.pptx">doc/9midterm.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/9fallfinal.pptx">doc/9fallfinal.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/9-MarchPresentation.pptx">doc/9-MarchPresentation.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/9springfinalv2.pptx">doc/9springfinalv2.pptx</a></p>
   <p>&nbsp;</p>
 
   <h3>PFW Other</h3>
-  <p><a href="doc/mirai.pptx">doc/mirai.pptx</a></p>
+  <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/mirai.pptx">doc/mirai.pptx</a></p>
   <p>&nbsp;</p>
 
-  <h3>Language Learner Resources</h3>
+  <h3>Language Learning Resources</h3>
   <p><a href="https://realkana.com/">Real Kana: Practice Hiragana & Katakana</a></p>
   <p><a href="https://www.wanikani.com/">WaniKani</a></p>
   <p><a href="https://www.youtube.com/watch?v=GaQBL4XHuSo&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2">ToKiniAndy Genki I Lessons</a></p>
