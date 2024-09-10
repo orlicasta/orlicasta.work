@@ -18,10 +18,12 @@ function MainPage() {
   <p><a href="https://www.linkedin.com/in/jacobgottschalk/">linkedin.com/in/jacobgottschalk</a></p>
   <p>&nbsp;</p>
 
+  {/*
   <h3>Machine Learning Demo</h3>
-  {/*<p><a href="http://demo.orlicasta.com:5000">Single Image Classification App Demo</a></p>*/}
+  <p><a href="http://demo.orlicasta.com:5000">Single Image Classification App Demo</a></p>
   <p>Single Image Classification App Demo [stopped]</p>
   <p>&nbsp;</p>
+  */}
 
   <h3>PFW Capstone Slides</h3>
   <p><a href="https://s3.amazonaws.com/orlicasta.com/doc/proposal.pptx">doc/proposal.pptx</a></p>
